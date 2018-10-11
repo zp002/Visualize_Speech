@@ -1,0 +1,15 @@
+north america, antigua, antiguan, arawak, barbuda, barbudan, bahamas, barbados, belize, bermuda, canada, canadian, costa rica, cuba, dominica, dominican republic, el salvador, grenada, guatemala, haiti, honduras, jamaica, nicaragua, st. kitts, nevis, st. lucia, st. vincent, the grenadines, trinidad, tobago
+
+middle east, isis, bahrain, cyprus, egypt, iran, iraq, israel, jordan, kuwait, lebanon, oman, qatar, saudi arabia, syria, turkey, united arab emirates, yemen, islam
+
+asia, asian, afghanistan, armenia, azerbaijan, bangladesh, bhutan, brunei, burma, cambodia, china, chinese, georgia, hong kong, india, indonesia, japan, kazakhstan, korea, korean kyrgyzstan, laos, macau, malaysia, maldives, mongolia, mongolian, nepal, pakistan, palestine, philippines, philippine, singapore, sri lanka, taiwan, tajikistan, thailand, turkmenistan, uzbekistan, vietnam, vietnamese
+
+south america, argentina, bolivia, brazil, chile, colombia, ecuador, guyana, paraguay, peru, suriname, uruguay, venezuela
+
+latin america, belize, costa rica, el salvador, guatemala, honduras, nicaragua, panama, mexico, mexican
+
+africa, african, algeria, angola, benin, botswana, burkina faso, burundi, cameroon, cape Verde, central african republic, chad, comoros, democratic republic of the congo, republic of the congo, cote d'ivoire, djibouti, egypt, equatorial guinea, eritrea, ethiopia, gabon, the gambia, ghana, guinea, guinea-bissau, kenya, lesotho, liberia, libya, madagascar, malawi, mali, mauritania, mauritius, morocco, mozambique, namibia, niger, nigeria, rwanda, Sao Tome, sao tome, principe, senegal, seychelles, sierra Leone, somalia, south africa, sudan, swaziland, tanzania, togo, tunisia, uganda, zambia, zimbabwe
+
+europe, european albania, andorra, austria, belarus, belgium, bosnia, herzegovina, bulgaria, croatia, czech republic, czechs, denmark, estonia, finland, france, germany, greece, hungary, iceland, ireland, italy, italians, italian, latvia, liechtenstein, lithuania, luxembourg, malta, moldova, monaco, netherlands, norway, poland, portugal, portuguese, romania, russia, russian, russians, san marino, serbia, Montenegro, serbia, montenegro, slovakia, slovenia, spain, spainish, sweden, switzerland, ukraine, ukrainians, ukrainian, united kingdom, uk, britain, british
+
+other, aruba, cayman islands, australia, australian fiji, kiribati, marshall islands, nauru, new zealand, palau, papua new guinea, samoa, solomon islands, tonga, tuvalu, tuvaluan, vanuatu, antartica, south pole, north pole
